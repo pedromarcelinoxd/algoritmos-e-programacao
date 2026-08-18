@@ -1,0 +1,1 @@
+14_media_ponderada.c
