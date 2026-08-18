@@ -10,7 +10,7 @@ The activities are primarily developed in **C**, focusing on programming fundame
 
 Exercises developed throughout the course, organized by topic and assignment list.
 
-- [List 01 – Input and Output, Operations and Variables](./exercicios-c/lista-01-entrada-saida-operacoes-variaveis/)
+- [List 01 – Input and Output, Operations and Variables](https://github.com/pedromarcelinoxd/algoritmos-e-programacao/tree/main/lista-01-entrada-saida-operacoes-variaveis)
 
 ## 💻 Language
 
