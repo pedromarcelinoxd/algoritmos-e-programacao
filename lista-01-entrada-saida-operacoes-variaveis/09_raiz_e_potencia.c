@@ -2,7 +2,7 @@
 
 int main()
 {
-    float numero, raiz;
+    float numero, raiz, potencia;
     printf("Digite um numero: ");
     scanf("%f", &numero);
     raiz = sqrt(numero);
